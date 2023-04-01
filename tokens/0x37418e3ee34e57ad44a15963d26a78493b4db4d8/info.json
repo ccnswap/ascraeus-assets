@@ -1,0 +1,50 @@
+{
+    "name": "CCNSwap Coin",
+    "website": "https://ccnswap.org",
+    "description": "CCNSwap, earn, and build on the leading decentralized crypto trading protocol.",
+    "explorer": "https://tokenscan.ccnswap.org/0x37418e3ee34e57ad44a15963d26a78493b4db4d8",
+    "type": "CRC20",
+    "symbol": "CCS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x37418e3ee34e57ad44a15963d26a78493b4db4d8",
+    "links": {
+        "twitter":"https://twitter.com/ccnswap",
+        "telegram":"https://t.me/ccnswap",
+        "github":"https://github.com/ccnswap",
+        "discord":"https://discord.com/invite/zd4ZYwcPth",
+        "email":"ccnswap.org@gmail.com"
+    },
+    "tags": [
+        "CRC20","DEFI","DEX"
+    ],
+    "exts":[
+        {
+            "title":"Buy",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://ascraeus.ccnswap.org/#/swap?inputCurrency=ccn&outputCurrency=0x37418e3ee34e57ad44a15963d26a78493b4db4d8"
+                }
+            ]
+        },
+        {
+            "title":"Add Liquidity",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://ascraeus.ccnswap.org/#/add/0x37418e3ee34e57ad44a15963d26a78493b4db4d8/CCN"
+                }
+            ]
+        },
+        {
+            "title":"Mining",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://ascraeus.ccnswap.org/#/farm"
+                }
+            ]
+        }
+    ]
+}

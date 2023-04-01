@@ -1,0 +1,50 @@
+{
+    "name": "Wrapped Compute",
+    "website": "https://computecoin.network",
+    "description": "wrapped compute coin",
+    "explorer": "https://tokenscan.ccnswap.org/0x0afbecd1e49e39a0d24e8722b70bc5b513900360",
+    "type": "CRC20",
+    "symbol": "WCCN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0afbecd1e49e39a0d24e8722b70bc5b513900360",
+    "links": {
+        "twitter":"https://twitter.com/ccnswap",
+        "telegram":"https://t.me/ccnswap",
+        "github":"https://github.com/ccnswap",
+        "discord":"https://discord.com/invite/zd4ZYwcPth",
+        "email":"ccnswap.org@gmail.com"
+    },
+    "tags": [
+        "CRC20","Wrapped","DEX"
+    ],
+    "exts":[
+        {
+            "title":"Bondpool",
+            "options":[
+                {
+                    "name":"Computecoin",
+                    "value":"https://bonding-pool.computecoin.network/"
+                }
+            ]
+        },
+        {
+            "title":"Buy",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://ascraeus.ccnswap.org/#/swap?inputCurrency=0x0afbecd1e49e39a0d24e8722b70bc5b513900360&outputCurrency=CCN"
+                }
+            ]
+        },
+        {
+            "title":"Add Liquidity",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://ascraeus.ccnswap.org/#/add/CCN/0x0afbecd1e49e39a0d24e8722b70bc5b513900360"
+                }
+            ]
+        }
+    ]
+}

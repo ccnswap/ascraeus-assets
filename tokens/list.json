@@ -1,0 +1,25 @@
+{
+  "name": "CCNSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 3,
+      "patch": 0
+  },
+  "keywords": [
+      "gemini",
+      "tokens",
+      "trusted"
+  ],
+  "logoURI": "https://ascraeus-assets.ccnswap.org/tokens/logo.png",
+  "timestamp": "2021-03-23T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "CCNSwap Coin",
+          "chainId": 972,
+          "symbol": "CCS",
+          "decimals": 18,
+          "address": "0x37418e3ee34e57ad44a15963d26a78493b4db4d8",
+          "logoURI": "https://ascraeus-assets.ccnswap.org/tokens/0x37418e3ee34e57ad44a15963d26a78493b4db4d8/logo.png"
+      }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Compute coin",
+    "website": "https://computecoin.com",
+    "description": "The next-generation infrastructure that powers all-purpose Web3 and Metaverse applications.",
+    "explorer": "https://tokenscan.ccnswap.org/0x0afbecd1e49e39a0d24e8722b70bc5b513900360",
+    "type": "CRC20",
+    "symbol": "CCN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x",
+    "links": {
+        "twitter":"https://twitter.com/computecoinnet",
+        "telegram":"https://t.me/computecoin",
+        "github":"https://github.com/computecoin-network",
+        "discord":"https://discord.com/invite/Uv8khzfZqd",
+        "email":"dev@computecoin.network",
+        "whitepaper":"https://computecoin-network.s3.ap-southeast-1.amazonaws.com/static/ComputeCoin_Whitepaper.pdf",
+        "youtube":"https://www.youtube.com/channel/UCc4F2qvfdyuQ2Q473s4TS2Q/featured",
+        "instagram":"https://www.instagram.com/computecoin/"
+    },
+    "tags": [
+        "DAG","POH","EVM"
+    ],
+    "exts":[
+        {
+            "title":"Bondpool",
+            "options":[
+                {
+                    "name":"Computecoin",
+                    "value":"https://bonding-pool.computecoin.network/"
+                }
+            ]
+        },
+        {
+            "title":"Buy",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/swap?inputCurrency=0x37418e3ee34e57ad44a15963d26a78493b4db4d8&outputCurrency=ccn"
+                }
+            ]
+        },
+        {
+            "title":"Add Liquidity",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/add/CCN/0x37418e3ee34e57ad44a15963d26a78493b4db4d8"
+                }
+            ]
+        }
+    ]
+}
